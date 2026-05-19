@@ -1,6 +1,6 @@
 # Gravitational Lensing Simulation
 
-A physically-based simulation of a black hole passing diagonally in front of a background galaxy field (e.g. the Hubble Deep Field), producing gravitational lensing effects including tangential streaking, Einstein ring formation, and a de-magnified secondary image inside the ring.
+A physics simulation of a black hole passing diagonally in front of a background galaxy field (e.g. the Hubble Deep Field), producing gravitational lensing effects including tangential streaking, Einstein ring formation, and a de-magnified secondary image inside the ring.
 
 ![Example frame showing lensing of Hubble Deep Field](example_frame.png)
 
